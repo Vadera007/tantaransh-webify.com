@@ -8,3 +8,5 @@ It is a fully fleshed website.
 
 It was made to showcase the various events held in the fest.
 
+A Computer Science Department fest.
+
